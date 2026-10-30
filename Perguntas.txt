@@ -1,0 +1,12 @@
+1. Pergunta:
+Discuta como a sobrecarga de construtores facilita a criação de objetos com diferentes conjuntos de informações, permitindo flexibilidade na instanciação de objetos.
+
+Resposta: A sobrecarga de construtores permite criar objetos usando diferentes quantidades de informações. Assim, podemos preencher apenas os dados necessários ou todos os dados, dependendo da situação.
+2. Pergunta:
+Como o polimorfismo por sobrescrita facilita a implementação de diferentes formas de pagamento dentro de um sistema sem alterar o código da classe base?
+
+Resposta: Permite que cada forma de pagamento tenha seu próprio funcionamento, mesmo utilizando o mesmo método da classe principal. Assim, podemos adicionar novas formas de pagamento sem precisar modificar a classe base.
+3. Pergunta:
+Explique como a sobrecarga de métodos permite implementar várias versões do método converter(), mesmo com diferentes tipos de dados e funcionalidades.
+
+Resposta: A sobrecarga permite usar o mesmo nome de método para realizar funções diferentes, dependendo do tipo de dado recebido. Assim, o método converter() pode fazer diferentes conversões sem precisar de nomes diferentes.
